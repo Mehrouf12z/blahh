@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background: #000000;
+    color: #fff;
+    overflow-x: hidden;
+}
+
+#jja{
+width: 800px;
+height: 50vh;
+transform: translate(-130px,270px);
+}
+
+#jjb{
+    width: 140px;
+    border-radius: 20px;
+transform: translate(100px,-300px);
+}
+
